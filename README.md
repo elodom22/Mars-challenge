@@ -1,4 +1,2 @@
 # Mars-challenge
-# Resources
-1. In-class lessons - Data-collection
-2. Google AI search
+This challenge focuses on web scraping and data analysis using Python. Here, we extract information from websites using automated browsing with Splinter and HTML parsing with Beautiful Soup. The project consists of two parts: first, scraping titles and preview text from Mars news articles, and second, collecting and analyzing Mars weather data from an HTML table. We store the scraped data in structured formats, perform statistical analysis using Pandas, and visualize trends with Matplotlib. This exercise strengthens skills in data collection, organization, and interpretation for real-world applications.
